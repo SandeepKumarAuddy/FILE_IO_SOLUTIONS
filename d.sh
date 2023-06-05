@@ -1,0 +1,1 @@
+g++ src/$1.cpp 2> process/err.log -o executables/$1.exe
